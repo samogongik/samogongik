@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Kozub Sergey Aleksandrovich, MIPT 2nd year student. You can see my CV. 
 
 <!--
 **samogongik/samogongik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
